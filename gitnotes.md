@@ -7,5 +7,6 @@ These are my notes on git.
 * 'git add' : adds files to be tracked
 * 'git commit': fixes this version as snapshot
 
----
+
 *'git diff' shows changes not yet tracked
+
