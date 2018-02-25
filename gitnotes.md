@@ -9,6 +9,7 @@ These are my notes on git.
 
 ---
 
-Second commit tracking
+NOTES NOTES NOTES 
+AFRAID TO COMMIT
 
 
